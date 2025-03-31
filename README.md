@@ -1,1 +1,6 @@
-# goormthon-univ-kimjazz
+# 🙋‍♂️ 자기소개
+
+- 이름: 김정훈
+- 전공: 컴퓨터소프트웨공학과
+- 관심 분야: 풀스택
+- 블로그: https://velog.io/@jeong011010
