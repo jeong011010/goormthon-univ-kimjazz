@@ -16,7 +16,7 @@ function App() {
   useEffect(() => {
     if(count>9) alert("와우! 10번이나 눌렀어!");
   }, [count]);
-
+  //똥!ㅇ
   return (
     <Container>
       <Title>안녕하세요! 저는 김정훈입니다</Title>
